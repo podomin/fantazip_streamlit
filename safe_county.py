@@ -232,7 +232,12 @@ with col1:
 with col2:
     st.info(f"**🎊 하왕십리동 🎊**")   
 
+st.write("  ")
+st.warning(f"**다음 내용**")
+st.markdown("지금까지 거주중심지역의 안전한 동네를 살펴봤으니")
+st.markdown("다음으로는 1인가구중심지역의 안전한 동네를 분석하고 특징을 뽑아보도록 하겠습니다.")
 
+st.write("  ")
 st.write("  ")
 st.markdown("-----------")
 st.write("  ")
@@ -347,3 +352,14 @@ with col2:
     st.info(f"**🎊 염창동 🎊**")  
     
 st.write(" ")
+st.write("  ")
+st.write("------------------------")
+st.write("  ")
+
+st.warning(f"**💡 인사이트 총 정리**")
+st.markdown("##### 2030 여성 1인가구 사회초년생 분들~~~")
+st.markdown("##### 살기 좋은 동네 찾을 때, 이것만 기억해주세요!!")
+st.markdown("- cctv 개수가 적고 아파트 단지가 있는 동네")
+st.markdown("- 도서관이나 공원이 적어도 하나는 있는 동네")
+st.markdown("- 유흥업소가 적고 교통편리성이 좋은 동네")
+st.markdown("- 아이들이 많고 2030 여성 비율이 높은 동네")
