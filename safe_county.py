@@ -4,7 +4,7 @@ from PIL import Image
 
 st.set_page_config(layout="wide")
 
-st.image("./fantazip_logo.png")
+st.image("./data/fantazip_logo.png")
 st.title("🏠 안전한 동네 찾기 🏠 ")
 
 st.info(f"**분석 목적 : 2030여성 1인가구에게 안전한 동네 찾기**")
