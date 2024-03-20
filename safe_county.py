@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.image("./data/fantazip_logo.png")
 st.title("🏠 안전한 동네 찾기 🏠 ")
 
-st.info(f"**분석 배경 및 목표**")
+st.info(f"**<분석 배경 및 목표>**")
 
 st.write("요즘 '묻지마 폭행사건'등으로 인해 안전에 대한 관심이 높아지고 있습니다 \
     그 중에서도 특히 2030 사회초년생 여성들에게 살기 좋은 동네 = 안전한 동네일 것이라고 생각을 했습니다. \
